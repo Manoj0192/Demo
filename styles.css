@@ -1,0 +1,23 @@
+section h1 {
+    text-align: center;
+  }
+  #form {
+    font-family: sans-serif;
+  }
+  body {
+    background-image: url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    background-position: center;
+    background-size: cover;
+    color: white;
+  }
+#header{
+    text-align: center;
+}
+section{
+    background-color: antiquewhite;
+}
